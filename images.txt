@@ -1,3 +1,3 @@
-openResty
-halo
-mysql
+mysql:latest
+bitnami/openresty:latest
+halohub/halo:2.17.0-alpha.1
